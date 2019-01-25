@@ -1,0 +1,43 @@
+C:\Users\Pritam\Documents\Word\Word\obj\Debug\PowerPoint.csprojResolveAssemblyReference.cache
+C:\Users\Pritam\Documents\Word\Word\obj\Debug\PowerPoint.ControlBox.resources
+C:\Users\Pritam\Documents\Word\Word\obj\Debug\PowerPoint.EditorContainer.resources
+C:\Users\Pritam\Documents\Word\Word\obj\Debug\PowerPoint.FileOptionsControl.resources
+C:\Users\Pritam\Documents\Word\Word\obj\Debug\PowerPoint.HomeControl.resources
+C:\Users\Pritam\Documents\Word\Word\obj\Debug\PowerPoint.Info_OptionControl.resources
+C:\Users\Pritam\Documents\Word\Word\obj\Debug\PowerPoint.LoadingForm.resources
+C:\Users\Pritam\Documents\Word\Word\obj\Debug\PowerPoint.MainForm.resources
+C:\Users\Pritam\Documents\Word\Word\obj\Debug\PowerPoint.New_OptionControl.resources
+C:\Users\Pritam\Documents\Word\Word\obj\Debug\PowerPoint.Open_OptionControl.resources
+C:\Users\Pritam\Documents\Word\Word\obj\Debug\PowerPoint.Print_OptionControl.resources
+C:\Users\Pritam\Documents\Word\Word\obj\Debug\PowerPoint.Properties.Resources.resources
+C:\Users\Pritam\Documents\Word\Word\obj\Debug\PowerPoint.SaveAs_OptionControl.resources
+C:\Users\Pritam\Documents\Word\Word\obj\Debug\PowerPoint.Share_OptionControl.resources
+C:\Users\Pritam\Documents\Word\Word\obj\Debug\PowerPoint.TemplatesControl.resources
+C:\Users\Pritam\Documents\Word\Word\obj\Debug\PowerPoint.RibbonControl.resources
+C:\Users\Pritam\Documents\Word\Word\obj\Debug\PowerPoint.csproj.GenerateResource.Cache
+C:\Users\Pritam\Documents\Word\Word\bin\Debug\PowerPoint.exe.config
+C:\Users\Pritam\Documents\Word\Word\bin\Debug\PowerPoint.exe
+C:\Users\Pritam\Documents\Word\Word\bin\Debug\PowerPoint.pdb
+C:\Users\Pritam\Documents\Word\Word\obj\Debug\PowerPoint.exe
+C:\Users\Pritam\Documents\Word\Word\obj\Debug\PowerPoint.pdb
+C:\Visual Studio Projects\PowerPoint\PowerPoint\bin\Debug\PowerPoint.exe.config
+C:\Visual Studio Projects\PowerPoint\PowerPoint\obj\Debug\PowerPoint.exe
+C:\Visual Studio Projects\PowerPoint\PowerPoint\obj\Debug\PowerPoint.pdb
+C:\Visual Studio Projects\PowerPoint\PowerPoint\bin\Debug\PowerPoint.exe
+C:\Visual Studio Projects\PowerPoint\PowerPoint\bin\Debug\PowerPoint.pdb
+C:\Visual Studio Projects\PowerPoint\PowerPoint\obj\Debug\PowerPoint.csprojResolveAssemblyReference.cache
+C:\Visual Studio Projects\PowerPoint\PowerPoint\obj\Debug\PowerPoint.EditorContainer.resources
+C:\Visual Studio Projects\PowerPoint\PowerPoint\obj\Debug\PowerPoint.FileOptionsControl.resources
+C:\Visual Studio Projects\PowerPoint\PowerPoint\obj\Debug\PowerPoint.HomeControl.resources
+C:\Visual Studio Projects\PowerPoint\PowerPoint\obj\Debug\PowerPoint.Info_OptionControl.resources
+C:\Visual Studio Projects\PowerPoint\PowerPoint\obj\Debug\PowerPoint.LoadingForm.resources
+C:\Visual Studio Projects\PowerPoint\PowerPoint\obj\Debug\PowerPoint.MainForm.resources
+C:\Visual Studio Projects\PowerPoint\PowerPoint\obj\Debug\PowerPoint.New_OptionControl.resources
+C:\Visual Studio Projects\PowerPoint\PowerPoint\obj\Debug\PowerPoint.Open_OptionControl.resources
+C:\Visual Studio Projects\PowerPoint\PowerPoint\obj\Debug\PowerPoint.Print_OptionControl.resources
+C:\Visual Studio Projects\PowerPoint\PowerPoint\obj\Debug\PowerPoint.Properties.Resources.resources
+C:\Visual Studio Projects\PowerPoint\PowerPoint\obj\Debug\PowerPoint.SaveAs_OptionControl.resources
+C:\Visual Studio Projects\PowerPoint\PowerPoint\obj\Debug\PowerPoint.Share_OptionControl.resources
+C:\Visual Studio Projects\PowerPoint\PowerPoint\obj\Debug\PowerPoint.TemplatesControl.resources
+C:\Visual Studio Projects\PowerPoint\PowerPoint\obj\Debug\PowerPoint.RibbonControl.resources
+C:\Visual Studio Projects\PowerPoint\PowerPoint\obj\Debug\PowerPoint.csproj.GenerateResource.Cache

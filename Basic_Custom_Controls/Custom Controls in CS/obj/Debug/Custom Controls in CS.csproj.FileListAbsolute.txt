@@ -1,0 +1,23 @@
+C:\Visual Studio Projects\Custom Controls in CS\Custom Controls in CS\bin\Debug\Custom Controls in CS.exe.config
+C:\Visual Studio Projects\Custom Controls in CS\Custom Controls in CS\obj\Debug\Custom Controls in CS.csprojResolveAssemblyReference.cache
+C:\Visual Studio Projects\Custom Controls in CS\Custom Controls in CS\obj\Debug\Custom_Controls_in_CS.Form1.resources
+C:\Visual Studio Projects\Custom Controls in CS\Custom Controls in CS\obj\Debug\Custom_Controls_in_CS.Properties.Resources.resources
+C:\Visual Studio Projects\Custom Controls in CS\Custom Controls in CS\obj\Debug\Custom Controls in CS.csproj.GenerateResource.Cache
+C:\Visual Studio Projects\Custom Controls in CS\Custom Controls in CS\bin\Debug\Custom Controls in CS.exe
+C:\Visual Studio Projects\Custom Controls in CS\Custom Controls in CS\bin\Debug\Custom Controls in CS.pdb
+C:\Visual Studio Projects\Custom Controls in CS\Custom Controls in CS\obj\Debug\Custom Controls in CS.exe
+C:\Visual Studio Projects\Custom Controls in CS\Custom Controls in CS\obj\Debug\Custom Controls in CS.pdb
+C:\Visual Studio Projects\Custom Controls in CS\Custom Controls in CS\obj\Debug\Custom_Controls_in_CS.ButtonsDemo.resources
+C:\Visual Studio Projects\Custom Controls in CS\Custom Controls in CS\obj\Debug\Custom_Controls_in_CS.TabControlDemo.resources
+C:\Users\Pritam\Downloads\Custom Controls in CS\Custom Controls in CS\bin\Debug\Custom Controls in CS.exe.config
+C:\Users\Pritam\Downloads\Custom Controls in CS\Custom Controls in CS\obj\Debug\Custom Controls in CS.exe
+C:\Users\Pritam\Downloads\Custom Controls in CS\Custom Controls in CS\obj\Debug\Custom Controls in CS.pdb
+C:\Users\Pritam\Downloads\Custom Controls in CS\Custom Controls in CS\bin\Debug\Custom Controls in CS.exe
+C:\Users\Pritam\Downloads\Custom Controls in CS\Custom Controls in CS\bin\Debug\Custom Controls in CS.pdb
+C:\Users\Pritam\Downloads\Custom Controls in CS\Custom Controls in CS\obj\Debug\Custom Controls in CS.csprojResolveAssemblyReference.cache
+C:\Users\Pritam\Downloads\Custom Controls in CS\Custom Controls in CS\obj\Debug\Custom_Controls_in_CS.ButtonsDemo.resources
+C:\Users\Pritam\Downloads\Custom Controls in CS\Custom Controls in CS\obj\Debug\Custom_Controls_in_CS.Properties.Resources.resources
+C:\Users\Pritam\Downloads\Custom Controls in CS\Custom Controls in CS\obj\Debug\Custom_Controls_in_CS.TabControlDemo.resources
+C:\Users\Pritam\Downloads\Custom Controls in CS\Custom Controls in CS\obj\Debug\Custom Controls in CS.csproj.GenerateResource.Cache
+C:\Users\Pritam\Downloads\Custom Controls in CS\Custom Controls in CS\obj\Debug\Custom_Controls_in_CS.MainForm.resources
+C:\Users\Pritam\Downloads\Custom Controls in CS\Custom Controls in CS\obj\Debug\Custom_Controls_in_CS.LabelsDemo.resources

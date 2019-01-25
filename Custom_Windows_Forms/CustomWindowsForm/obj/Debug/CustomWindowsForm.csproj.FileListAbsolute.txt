@@ -1,0 +1,12 @@
+C:\Visual Studio Projects\CustomWindowsForm\CustomWindowsForm\bin\Debug\CustomWindowsForm.exe.config
+C:\Visual Studio Projects\CustomWindowsForm\CustomWindowsForm\bin\Debug\CustomWindowsForm.exe
+C:\Visual Studio Projects\CustomWindowsForm\CustomWindowsForm\bin\Debug\CustomWindowsForm.pdb
+C:\Visual Studio Projects\CustomWindowsForm\CustomWindowsForm\obj\Debug\CustomWindowsForm.csprojResolveAssemblyReference.cache
+C:\Visual Studio Projects\CustomWindowsForm\CustomWindowsForm\obj\Debug\CustomWindowsForm.Properties.Resources.resources
+C:\Visual Studio Projects\CustomWindowsForm\CustomWindowsForm\obj\Debug\CustomWindowsForm.csproj.GenerateResource.Cache
+C:\Visual Studio Projects\CustomWindowsForm\CustomWindowsForm\obj\Debug\CustomWindowsForm.exe
+C:\Visual Studio Projects\CustomWindowsForm\CustomWindowsForm\obj\Debug\CustomWindowsForm.pdb
+C:\Visual Studio Projects\CustomWindowsForm\CustomWindowsForm\obj\Debug\CustomWindowsForm.BlackForm.resources
+C:\Visual Studio Projects\CustomWindowsForm\CustomWindowsForm\obj\Debug\CustomWindowsForm.BlueForm.resources
+C:\Visual Studio Projects\CustomWindowsForm\CustomWindowsForm\obj\Debug\CustomWindowsForm.Dashboard_Form.resources
+C:\Visual Studio Projects\CustomWindowsForm\CustomWindowsForm\obj\Debug\CustomWindowsForm.MainForm.resources

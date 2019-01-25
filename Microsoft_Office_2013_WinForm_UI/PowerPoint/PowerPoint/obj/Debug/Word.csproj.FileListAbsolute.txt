@@ -1,0 +1,25 @@
+C:\Visual Studio Projects\Word\Word\bin\Debug\Word.exe.config
+C:\Visual Studio Projects\Word\Word\bin\Debug\Word.exe
+C:\Visual Studio Projects\Word\Word\bin\Debug\Word.pdb
+C:\Visual Studio Projects\Word\Word\obj\Debug\Word.csprojResolveAssemblyReference.cache
+C:\Visual Studio Projects\Word\Word\obj\Debug\Word.LoadingForm.resources
+C:\Visual Studio Projects\Word\Word\obj\Debug\Word.Properties.Resources.resources
+C:\Visual Studio Projects\Word\Word\obj\Debug\Word.csproj.GenerateResource.Cache
+C:\Visual Studio Projects\Word\Word\obj\Debug\Word.exe
+C:\Visual Studio Projects\Word\Word\obj\Debug\Word.pdb
+C:\Visual Studio Projects\Word\Word\obj\Debug\Word.MainForm.resources
+C:\Visual Studio Projects\Word\Word\obj\Debug\Word.TemplatesControl.resources
+C:\Visual Studio Projects\Word\Word\obj\Debug\Word.ControlBox.resources
+C:\Visual Studio Projects\Word\Word\obj\Debug\Word.FileOptionsControl.resources
+C:\Visual Studio Projects\Word\Word\obj\Debug\Word.RibbonControl.resources
+C:\Visual Studio Projects\Word\Word\obj\Debug\Word.Info_OptionControl.resources
+C:\Visual Studio Projects\Word\Word\obj\Debug\Word.New_OptionControl.resources
+C:\Visual Studio Projects\Word\Word\obj\Debug\Word.Open_OptionControl.resources
+C:\Visual Studio Projects\Word\Word\obj\Debug\Word.SaveAs_OptionControl.resources
+C:\Visual Studio Projects\Word\Word\obj\Debug\Word.Print_OptionControl.resources
+C:\Visual Studio Projects\Word\Word\obj\Debug\Word.Share_OptionControl.resources
+C:\Visual Studio Projects\Word\Word\obj\Debug\Word.HomeControl.resources
+C:\Visual Studio Projects\Word\Word\obj\Debug\Word.EditorContainer.resources
+C:\Users\Pritam\Documents\Word\Word\bin\Debug\Word.exe.config
+C:\Users\Pritam\Documents\Word\Word\obj\Debug\Word.exe
+C:\Users\Pritam\Documents\Word\Word\obj\Debug\Word.pdb
