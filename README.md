@@ -1,4 +1,7 @@
 # Custom Controls in C# DotNet
+Links :<br/>
+  <a href="https://www.codeproject.com/Articles/1068043/Creating-Custom-Windows-Forms-in-Csharp-using-Pane">Custom WinForm</a>
+  <a href="https://www.c-sharpcorner.com/UploadFile/f5a10c/creating-custom-controls-in-C-Sharp/">Basic Custom Controls</a>
 
 <img src="https://github.com/pritamzope/custom_controls_csharp/blob/master/Basic_Custom_Controls/images/customcontrols.png" width="650" height="350"></img>
 
